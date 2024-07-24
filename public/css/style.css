@@ -1,0 +1,31 @@
+ 
+ h3{
+    font-size: 40px;
+    color: black;
+    background-color: rgb(151, 76, 151);
+    border-radius: 10px;
+ }
+ h2 {
+    font-size: 55px;
+    color: white;
+    background-color: rgb(95, 94, 94);
+    border-radius: 10px;
+ }  
+ .header1{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgb(40, 38, 38);
+    height: 70px;
+ }
+ .hed1{
+    margin-top: 6%;
+ }
+ .header1 a{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    margin: 10px 30px;
+
+ }
